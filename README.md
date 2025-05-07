@@ -1,4 +1,4 @@
-# Responsive-web-desing
+# Responsive-web-design
 Contains basic projects related to responsive web design
 My web applications that will be in this folder:
 1)Making catPhotoApp with html
